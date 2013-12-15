@@ -2,6 +2,7 @@ HMM-Pos-Tagger
 ==============
 
 Hidden Markov Model (HMM) based Part-of-Speech (POS) tagger for the biomedical domain. 
+
 The training (genia-train.txt) and test sets (genia-test.txt), which are obtained from the Genia Corpus_1.
 
 The training set contains 13677 sentences, and the test set contains 6869 sentences. 
